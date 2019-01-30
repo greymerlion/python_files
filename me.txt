@@ -1,0 +1,4 @@
+Hi, I am ZP.
+I like to do coding.
+Python is fun!
+Python == Fun # True
